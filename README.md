@@ -7,4 +7,5 @@ This repository provides tutorial code for deep learning researchers to learn [P
 ## Table of Contents
 
 #### 1. Basics
-* [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/blitz/)
+* [Deep Learning with PyTorch: A 60 Minute Blitz](https://github.com/purvasingh96/pytorch-examples/blob/master/Basics/01.%20Deep_Learning_with_PyTorch_A_60_Minute_Blitz_.ipynb)
+* [Autograd : Automatic Differentiation](https://github.com/purvasingh96/pytorch-examples/blob/master/Basics/02.%20Autograd_Automatic_Differentiation.ipynb)
