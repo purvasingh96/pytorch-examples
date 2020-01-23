@@ -1,3 +1,3 @@
-<p align="center"><img width="50%" src="./images/pytorch-logo.png" /></p>
+<p align="center"><img width="40%" src="./images/Pytorch_logo.png" /></p>
 
 --------------------------------------------------------------------------------
