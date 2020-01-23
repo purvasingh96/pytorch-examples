@@ -1,2 +1,3 @@
-# Deep-learning-basic
-This repo contains my solution for various PyTorch and TensorFlow tutorials.
+<p align="center"><img width="50%" src="./images/pytorch-logo.png" /></p>
+
+--------------------------------------------------------------------------------
