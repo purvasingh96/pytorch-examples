@@ -13,4 +13,4 @@ This repository provides tutorial code for deep learning researchers to learn [P
 * [Training an Image Classifier](https://github.com/purvasingh96/pytorch-examples/blob/master/Basics/04_Training_an_image_classifier.ipynb)
 ### 2. Images
 * [Object Detection](https://github.com/purvasingh96/pytorch-examples/blob/master/Images/01_Object_Detection.ipynb) 
-* [Transfer Learning]
+* [Transfer Learning](https://github.com/purvasingh96/pytorch-examples/blob/master/Images/02_Transfer_Learning.ipynb)
