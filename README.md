@@ -11,3 +11,6 @@ This repository provides tutorial code for deep learning researchers to learn [P
 * [Autograd : Automatic Differentiation](https://github.com/purvasingh96/pytorch-examples/blob/master/Basics/02.%20Autograd_Automatic_Differentiation.ipynb)
 * [Neural Networks](https://github.com/purvasingh96/pytorch-examples/blob/master/Basics/03.%20Neural_networks.ipynb)
 * [Training an Image Classifier](https://github.com/purvasingh96/pytorch-examples/blob/master/Basics/04_Training_an_image_classifier.ipynb)
+### 2. Images
+* [Object Detection](https://github.com/purvasingh96/pytorch-examples/blob/master/Images/01_Object_Detection.ipynb) 
+* [Transfer Learning]
