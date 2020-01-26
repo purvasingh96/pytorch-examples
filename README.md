@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="./images/Pytorch_logo.png" /></p>
+<p align="center"><img width="40%" src="./assets/Pytorch_logo.png" /></p>
 
 --------------------------------------------------------------------------------
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://pytorch.org/tutorials/). 
